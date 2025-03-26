@@ -25,6 +25,9 @@ namespace InfyUSDKBridge{
         [DllImport("__Internal")] private static extern void setRegion(string region);
         [DllImport("__Internal")] private static extern void setLocality(string locality);
         [DllImport("__Internal")] private static extern void setPostalCode(string postalCode);
+        // Declare the external Swift function that sets custom attributes
+        [DllImport("__Internal")]
+        private static extern void setCustomAttributes(string customAttributesJson);
 
         [DllImport("__Internal")]
         private static extern void trackEventWithAttributes(string s, string attributes);
@@ -183,14 +186,26 @@ namespace InfyUSDKBridge{
         #endif
     }
 
+    // Method to call Swift function for setting custom user attributes
+    public static void SetCustomAttributes(Dictionary<string, object> customAttributes)
+    {
+        var json = new JSONObject(customAttributes);
+        Debug.Log($"attributes are in: {json}");
+
+        // Call the Swift function through the external declaration
+        #if UNITY_IOS && !UNITY_EDITOR
+        setCustomAttributes(json.ToString());
+        #endif
+    }
+
 
     // Tracking events
     public static void TrackEvent(string eventName, Dictionary<string, object> attributes)
     {
             #if UNITY_IOS
-            // var json = new JSONObject(attributes);
-            // Debug.Log($"attributes are in: {json}");
-            // trackEventWithAttributes(eventName, json.ToString());
+            var json = new JSONObject(attributes);
+            Debug.Log($"attributes are in: {json}");
+            trackEventWithAttributes(eventName, json.ToString());
             #endif
     }
 
