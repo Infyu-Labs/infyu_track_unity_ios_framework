@@ -10,11 +10,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		kldRUVA3nRNvSnb+vfyX4HcOWPg=
+		lwGSSU+XRxJbjVFYw1z3cJPzmUM=
 		</data>
 		<key>Modules/InfyUSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		bF4aT3mEXwnSYuuP4m/TYMqJ9OY=
+		G5pUgf7g7fDkPDBe8Tnjp0Hc6yQ=
 		</data>
 		<key>Modules/InfyUSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/InfyUSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		PX23Qjq7PTaz5VVFjxe5no1KinA=
+		2vATY0/KYF5vAqeq56isxiqvb1s=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Secrets.xcconfig</key>
 		<data>
-		XQogJWwDhTyid8SlobGvUmZG9z0=
+		2QCI7TnRfTAMptdXAO2s+pksdYA=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -50,7 +50,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4nMA1R2DDPbvCu1IT9afy9zI3xZS61/whkqa2qLvm3g=
+			37DaCOQ3a+MlMaK8YcUmtleuVG+KduBPnYyn/KgtgtA=
 			</data>
 		</dict>
 		<key>Modules/InfyUSDK.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -71,7 +71,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jOZMDbPBWd5k1bhseGOwmmvkvd0jwmpV8A++KNqG9Kg=
+			8FYHsk2kMwW+NEbt3ozKUYKx9ppKtAispX1igLM6Ie0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -85,7 +85,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VK/E4HO1/uOgnBnskyHMkrfz83Vgz9H8mhefPz+EaDY=
+			hZb3f7bqxqzb6+yVEM+Kh4u4ztUeiNgsmZT37cgxSFI=
 			</data>
 		</dict>
 	</dict>

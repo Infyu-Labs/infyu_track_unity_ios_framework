@@ -10,15 +10,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		4NsKUjHjnkaWLpKV+NGaujr1dSQ=
+		/N+CwZnlpK3mKASiMj3J6SyVbcc=
 		</data>
 		<key>Modules/InfyUSDK.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		W6zdAcw51jvgGlr3LP7l+Z8WwUQ=
+		8LbiDu+WQFG/Aj6YBDcK0vVP0J8=
 		</data>
 		<key>Modules/InfyUSDK.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		fxPhMmrzIOzvAqEJjI84kpPCnsM=
+		h0aFkUDQg/PxiuQadodMcwV3hSg=
 		</data>
 		<key>Modules/InfyUSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/InfyUSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		g63IOHVYCxwlyJxoTSVKHohfl1A=
+		0q0z4uzAzoxcIhfS7CJso3/uSQs=
 		</data>
 		<key>Modules/InfyUSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/InfyUSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		vGrvohBLN5g/kK4eIjx0SQ10SsQ=
+		FhoC353U/nO/ntAawvRcE8Prrwc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Secrets.xcconfig</key>
 		<data>
-		XQogJWwDhTyid8SlobGvUmZG9z0=
+		2QCI7TnRfTAMptdXAO2s+pksdYA=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -66,14 +66,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/A1E89i3CAnZIU2DJEbg1qHH5td3o4RkqYvk9P6kayA=
+			oz5WvbVIzFlQR17FdNiI0mobfb70mEqtsYVPJvxm1lA=
 			</data>
 		</dict>
 		<key>Modules/InfyUSDK.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			POv8G6ARTiEIWXAtcPXWAferJ1lIj0VbZ+25NV5HAJg=
+			OLJg0Z6ZX/L1jBjKARMTNwCtd3VHl2qyzLLhglExiKk=
 			</data>
 		</dict>
 		<key>Modules/InfyUSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -94,7 +94,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ln1/klszRCj2TYZbxqJo7AGs3DBI8ln6BcXYyYIpz5M=
+			h3/vcxUNB01z4aQzu6N1tb2WkCqEBn1KD9jSZnWVzlE=
 			</data>
 		</dict>
 		<key>Modules/InfyUSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -115,7 +115,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YfPlSjiM4R+s0vxpuKQN3+dJ5QuKnPSM+Oq3xOSj7PE=
+			CbgCe7YQEvgoD42ONPDlCt0oArKbuv/uy1oeg3bpzHM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -129,7 +129,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VK/E4HO1/uOgnBnskyHMkrfz83Vgz9H8mhefPz+EaDY=
+			hZb3f7bqxqzb6+yVEM+Kh4u4ztUeiNgsmZT37cgxSFI=
 			</data>
 		</dict>
 	</dict>
