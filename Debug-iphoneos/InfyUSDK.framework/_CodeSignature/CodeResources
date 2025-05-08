@@ -14,7 +14,7 @@
 		</data>
 		<key>Modules/InfyUSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		G5pUgf7g7fDkPDBe8Tnjp0Hc6yQ=
+		/8FjXDBn5H/xyIp6PZqKkV35Wf8=
 		</data>
 		<key>Modules/InfyUSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/InfyUSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		2vATY0/KYF5vAqeq56isxiqvb1s=
+		BlweRnE8jYXB1pbsyxpfV6h7D8g=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -50,7 +50,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			37DaCOQ3a+MlMaK8YcUmtleuVG+KduBPnYyn/KgtgtA=
+			dLdI3VyGr4gfnh7r3w8hBfiu1UUWvJkSBOswl7ATs6o=
 			</data>
 		</dict>
 		<key>Modules/InfyUSDK.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -71,7 +71,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8FYHsk2kMwW+NEbt3ozKUYKx9ppKtAispX1igLM6Ie0=
+			B4r8R4pe9sAay/1lyFlvC/4csTRyXsm7V2AbSSf7z5k=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -8,6 +8,9 @@ namespace InfyUSDKBridge{
     public class InfyUSDK{
 
         [DllImport("__Internal")]
+        private static extern void setLicenseCode(string code);
+
+        [DllImport("__Internal")]
         private static extern void login(string s);
         
         [DllImport("__Internal")]
@@ -49,10 +52,21 @@ namespace InfyUSDKBridge{
         private static extern void sendTextPushNotification(string bundleID);
 
 
-
-
         // [DllImport("__Internal")]
         // private static extern void trackEvent(string s);
+
+
+        public static void SetLicenseCode(string code)
+        {
+            Debug.Log($"Calling LicenseCode: {code}");
+
+            // Ensure this works only on iOS
+            #if UNITY_IOS && !UNITY_EDITOR
+            setLicenseCode(code);
+            #endif
+
+            Debug.Log("SetLicenseCode function executed in Swift.");
+        }
 
         public static void Login(string cuid)
         {
