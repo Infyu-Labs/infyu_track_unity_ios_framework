@@ -55,6 +55,10 @@ namespace InfyUSDKBridge{
         // [DllImport("__Internal")]
         // private static extern void trackEvent(string s);
 
+        // Import the Swift screen tracking function
+        [DllImport("__Internal")]
+        private static extern void trackScreenEventWithData(string screenName, string screenDataJson);
+
 
         public static void SetLicenseCode(string code)
         {
@@ -266,6 +270,24 @@ namespace InfyUSDKBridge{
             #endif
 
             Debug.Log("Test Push Notification sent.");
+        }
+
+        // Send screen name and data to Swift
+        public static void TrackScreen(string screenName, Dictionary<string, string> screenData)
+        {
+            if (string.IsNullOrEmpty(screenName))
+            {
+                Debug.LogWarning("Screen name is required for tracking.");
+                return;
+            }
+
+            string json = MiniJSON.Json.Serialize(screenData);
+
+            Debug.Log($"📲 Sending screen tracking:\n🖥 Screen: {screenName}\n📦 Data: {json}");
+
+            #if UNITY_IOS && !UNITY_EDITOR
+                trackScreenEventWithData(screenName, json);
+            #endif
         }
 
     }
