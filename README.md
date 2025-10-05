@@ -35,6 +35,17 @@ import InfyUSDK
 ```
 
 ---
+
+### 🔑 Set License Key
+After importing the framework, set your license key to initialize the SDK properly:
+
+```swift
+InfyUSDK.setLicenseKey("your_license_key_here")
+```
+
+This ensures all SDK operations are authorized and ready for use.
+
+---
 ## ✅ Step 4: Usage Examples
 
 ### 🔐 Login / Logout
