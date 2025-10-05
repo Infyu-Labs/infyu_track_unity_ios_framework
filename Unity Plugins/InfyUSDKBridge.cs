@@ -58,6 +58,22 @@ namespace InfyUSDKBridge{
         // Import the Swift screen tracking function
         [DllImport("__Internal")]
         private static extern void trackScreenData(string screenName, string screenDataJson);
+        
+        // Import the Swift system-event tracking function
+        [DllImport("__Internal")]
+        private static extern void trackSystemEvent(string eventName);
+        
+        public static void trackSystemEvent(string eventName)
+        {
+           Debug.Log($"Calling SystemEventName: {eventName}");
+           
+            // Ensure this works only on iOS
+            #if UNITY_IOS && !UNITY_EDITOR
+            trackSystemEvent(code);
+            #endif
+
+            Debug.Log("SystemEventName function executed in Swift.");
+        }
 
 
         public static void SetLicenseCode(string code)

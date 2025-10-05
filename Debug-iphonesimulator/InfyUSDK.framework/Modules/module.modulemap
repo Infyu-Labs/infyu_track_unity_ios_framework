@@ -1,6 +1,0 @@
-framework module InfyUSDK {
-  umbrella header "InfyUSDK.h"
-  export *
-
-  module * { export * }
-}

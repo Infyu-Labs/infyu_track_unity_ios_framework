@@ -10,39 +10,23 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		UTMOAt1CnB9DirnDiyHNsrQCHA0=
+		PH3ebhBaTEKP+HvTjc4Gh+Fjcvg=
 		</data>
-		<key>Modules/InfyUSDK.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
+		<key>Modules/InfyUSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		BwBeqpUs99HWgSCR+0oHMBdNNbM=
+		qldOHnZqgq8EDQWyGgpk/OrTlcc=
 		</data>
-		<key>Modules/InfyUSDK.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
-		<data>
-		1GRuFFy4YGi9eiRm6hG6rsXcGdA=
-		</data>
-		<key>Modules/InfyUSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<key>Modules/InfyUSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
 		gcwBsH4BgyFY4sVtNt+/xOKS3vY=
 		</data>
-		<key>Modules/InfyUSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/InfyUSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		COqRSrwHwvuJ6ElXjvVSkIwobbc=
+		hSVK3RKzhfPhfmNhB/SfoR6d69c=
 		</data>
-		<key>Modules/InfyUSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/InfyUSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		V924PE6VLTcAJybfQVqigIpNrJU=
-		</data>
-		<key>Modules/InfyUSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
-		<data>
-		gcwBsH4BgyFY4sVtNt+/xOKS3vY=
-		</data>
-		<key>Modules/InfyUSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
-		<data>
-		uh61Vn8sMmTQNdzOxtjeZQn5E7c=
-		</data>
-		<key>Modules/InfyUSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
-		<data>
-		kHsyPndv9tx3ESgL1YTAYjifvYc=
+		X1BSSJnAD+vtuFPQ2HI2nRutUQs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -50,7 +34,7 @@
 		</data>
 		<key>Secrets.xcconfig</key>
 		<data>
-		2QCI7TnRfTAMptdXAO2s+pksdYA=
+		vSodN80hh2/ES3Nzz05xWssQcI8=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -62,60 +46,32 @@
 			T8YOecj13pVe41E3UfO9yxIBnjt7uZdwwLQlIFK48xw=
 			</data>
 		</dict>
-		<key>Modules/InfyUSDK.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
+		<key>Modules/InfyUSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yOSaCk3AeVAUPFIk3uJz9jPojI6LuGe5Rsf5+OWlYCw=
+			N1vdJCMbInUZeELURsOe2nKEAFnzmqs3SV9pK8NXrew=
 			</data>
 		</dict>
-		<key>Modules/InfyUSDK.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			JTnwLS0e3WLZ0VMqBcCtPG+I/qvOfzf1UXE4aV5NfRs=
-			</data>
-		</dict>
-		<key>Modules/InfyUSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<key>Modules/InfyUSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			Qnesa0n4URGWAopawg9bGx36dUwkYV00BoCJ8LFzlyg=
 			</data>
 		</dict>
-		<key>Modules/InfyUSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/InfyUSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rlO0Yu2fk0GTXNDrLdRgKSe0JE0cy0W1szqToSXLi6g=
+			Dk0JCi7BtwuBWFY2N8EYGANh5djiDEMJL/GYicoujq8=
 			</data>
 		</dict>
-		<key>Modules/InfyUSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/InfyUSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0C2ECW54YDy9WUOKUXhRcJb7TItC87kUpk7JS45WkYo=
-			</data>
-		</dict>
-		<key>Modules/InfyUSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Qnesa0n4URGWAopawg9bGx36dUwkYV00BoCJ8LFzlyg=
-			</data>
-		</dict>
-		<key>Modules/InfyUSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			7RQcCWj4Z6vjTHHShlv6STYHdgqa9Rn5Shr1hmfysjM=
-			</data>
-		</dict>
-		<key>Modules/InfyUSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Vv3UfthDbOgwrOs6oIAYfySEyqkdIfWol9qk3J5bC0Q=
+			drhFIYd/J1ZuCMsI9kCG11x0lFYzyzzu+I/tt30Jq0M=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -129,7 +85,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hZb3f7bqxqzb6+yVEM+Kh4u4ztUeiNgsmZT37cgxSFI=
+			XRvnXe0SXtPPHSKt98bA39V/80i++mM1zvpDxfI+PVc=
 			</data>
 		</dict>
 	</dict>
